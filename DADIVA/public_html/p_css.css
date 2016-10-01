@@ -1,0 +1,31 @@
+/*
+/ID Pag: p_0007 
+/NAME: p_css.css
+*/
+/*fuentes*/
+@font-face {
+	font-family: futura;
+	src: url("www.dadiva.esy.esFONTS/Futura-Medium.woff");
+}
+
+body
+{
+	margin:0;
+    height: 100%;
+    width: 100%;
+    position: relative;
+	background: #333;
+}
+
+/*claces generales*/
+.oculto
+{
+	display:none;
+}
+
+/*clases principales*/
+.p_0007_contenedor_principal
+{
+	height:100%;
+	widows:100%;
+}

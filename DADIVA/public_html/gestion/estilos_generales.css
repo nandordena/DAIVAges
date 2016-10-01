@@ -1,0 +1,22 @@
+.basico_input_contenedor
+{
+    min-width: 300px;
+	display:inline-block;
+}
+.basico_input_titulo
+{
+    width: 100px;
+    float: left;
+    padding-right: 1em;
+    text-align: right;
+}
+.basico_input
+{
+    width: 100px;
+    float: left;
+}
+.basico_input_submit_contenedor
+{
+	clear:both;
+    display: inherit;
+}

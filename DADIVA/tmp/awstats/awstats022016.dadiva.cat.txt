@@ -1,0 +1,285 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201602 will be lost/reset.
+# Last config file used to build this data file was /home/to1m9v0h/tmp/awstats/awstats.dadiva.cat.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2685                
+POS_VISITOR 6494                
+POS_DAY 7301                
+POS_DOMAIN 3237                
+POS_LOGIN 3491                
+POS_ROBOT 3646                
+POS_WORMS 3814                
+POS_EMAILSENDER 3945                
+POS_EMAILRECEIVER 4088                
+POS_SESSION 7448                
+POS_SIDER 7626                
+POS_FILETYPES 4223                
+POS_DOWNLOADS 4306                
+POS_OS 4354                
+POS_BROWSER 4541                
+POS_SCREENSIZE 4822                
+POS_UNKNOWNREFERER 4896                
+POS_UNKNOWNREFERERBROWSER 5030                
+POS_ORIGIN 5136                
+POS_SEREFERRALS 5268                
+POS_PAGEREFS 5412                
+POS_SEARCHWORDS 5739                
+POS_KEYWORDS 5891                
+POS_MISC 2349                
+POS_ERRORS 5950                
+POS_CLUSTER 3347                
+POS_SIDER_404 6039                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160210221229 24 2207 10738963530595
+FirstTime 20160207212501
+LastTime 20160210221229
+LastUpdate 20160210222941 24 0 24 0 0
+TotalVisits 25                  
+TotalUnique 19                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 10 10 0
+1 3 3 14748 5 5 0
+2 0 0 0 0 0 0
+3 0 0 0 5 5 0
+4 0 0 0 0 0 0
+5 0 0 0 10 10 0
+6 0 0 0 5 5 0
+7 2 2 9832 5 5 0
+8 1 1 4916 10 10 0
+9 0 0 0 5 5 0
+10 1 1 4916 5 5 0
+11 1 1 4916 12 12 2681
+12 5 5 24580 5 6 1337
+13 1 1 4916 5 5 0
+14 0 0 0 5 5 0
+15 3 3 14748 5 5 0
+16 2 2 9832 0 0 0
+17 2 2 9832 0 1 1337
+18 0 0 0 15 15 0
+19 0 0 0 5 5 0
+20 2 2 9832 10 11 1337
+21 13 13 63908 10 10 0
+22 9 9 44244 5 5 0
+23 1 1 4916 5 5 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+es 34 34 167144
+us 10 10 49160
+ru 2 2 9832
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 28 0 20160210205950 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 46 226136 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linuxandroid 15 15
+winlong 1 1
+winxp 2 2
+ios_iphone 12 12
+winnt 1 1
+linux 1 1
+win7 5 5
+macosx 1 1
+Unknown 4 4
+win8.1 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+safari9.0 8 8
+safari9.0.3 1 1
+firefox15.0 2 2
+chrome48.0.2564.95 10 10
+msie7.0 2 2
+firefox3.6.3 1 1
+chrome39.0.2171.95 3 3
+chrome48.0.2564.103 5 5
+Unknown 1 1
+safari 5 5
+chrome47.0.2526.83 4 4
+chrome38.0.2125.102 1 1
+netscape 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla 20160210203258
+WhatsApp 20160208155436
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WhatsApp 20160208155436
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 41 41
+From1 0 0
+From2 0 0
+From3 2 2
+From4 3 3
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://heavy.com/sports/2016/02/super-bowl-50-radio-broadcast-super-bowl-2016-announcers-broncos-and-panthers-stations-sirius-satellite-local-radio-where-how-denver-carolina/ 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 117 6692
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/administrator/index.php 1 -
+/wp-login.php 1 -
+/robots.txt 3 http://www.dadiva.cat/robots.txt
+/blog/ 28 -
+/wordpress/ 28 -
+/wp/ 28 -
+/blogs/ 28 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 19
+37.14.169.110 7 7 34412 20160209210724
+83.52.162.124 5 5 24580 20160208013048
+37.135.140.105 4 4 19664 20160208222130
+88.16.222.217 4 4 19664 20160210221229 20160210221229 /
+83.53.94.100 3 3 14748 20160207212842
+37.15.51.102 3 3 14748 20160208114313
+38.100.21.118 2 2 9832 20160208074702
+64.79.100.36 2 2 9832 20160209173524
+64.79.100.23 2 2 9832 20160210203258
+64.79.100.31 2 2 9832 20160208121319
+93.159.230.39 2 2 9832 20160208135045
+213.179.123.61 2 2 9832 20160208155436
+31.4.204.68 2 2 9832 20160208122538
+54.211.174.34 1 1 4916 20160209234159
+37.15.37.113 1 1 4916 20160207224509
+54.81.2.183 1 1 4916 20160210122310
+37.132.8.253 1 1 4916 20160210082438
+37.132.9.188 1 1 4916 20160208155034
+2.142.57.216 1 1 4916 20160208160413
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20160207 12 12 58992 5
+20160208 19 19 93404 13
+20160209 10 10 49160 3
+20160210 5 5 24580 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+2mn-5mn 2
+30s-2mn 3
+0s-30s 18
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 46 226136 25 24
+END_SIDER

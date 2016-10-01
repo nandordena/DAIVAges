@@ -1,0 +1,1 @@
+<? $coneccion_gestion= mysqli_connect("dadiva.cat", "to1m9v0h_gestion", "@D(db+^nkyM!", "u363836609_dges");?>

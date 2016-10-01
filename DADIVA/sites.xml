@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.15.0.2" platform="windows">
+	<Servers>
+		<Server>
+			<Host>ftp.pruebasnandordena.esy.es</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u363836609.administrador</User>
+			<Pass encoding="base64">d1YwR2xHZHZrdHo1</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>p_fer_PIKACHO</Name>
+			<Comments />
+			<LocalDir>C:\Users\nandordena\Documents\PFer\PIKACHO</LocalDir>
+			<RemoteDir>1 0 7 PIKACHO</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>p_fer_PIKACHO</Server>
+	</Servers>
+</FileZilla3>

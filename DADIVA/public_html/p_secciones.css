@@ -1,0 +1,31 @@
+/**
+*ID Pag: p_0010
+*NAME: p_secciones.css
+**/
+
+.p_0010_contenedor
+{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+
+
+.p_0010_titulo_bottom, .p_0010_titulo_top
+{
+    font-family: futura;
+    color: #fff;
+    font-size: 2em;
+    width: 100%;
+    text-align: center;
+    padding: 0.5em 0;
+    position: absolute;
+    background: #444; 
+	border-bottom: solid #222;
+}
+.p_0010_titulo_bottom
+{
+    bottom: 0;
+	border-bottom:0;
+    border-top: solid #222;
+}
